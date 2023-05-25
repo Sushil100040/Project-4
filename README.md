@@ -8,17 +8,17 @@ Project proposal
 Preapared and presented by Sushil Baskota and Dashrath Bhandari
 
 
-22/05/2023- data search and pre-discuss 
+22/05/2023- Project Idealtion: data search and pre-discuss
 
-23/05/2023- data collection and data study and project planning
-
-
-25/05/2023- data cleaning, initinal analysis
+23/05/2023- Data Fetching: data collection and data study and project planning
 
 
-29/05/2023- additional analysis of data and draw conclusions 
+25/05/2023- Coding and data analysis: data cleaning, initinal analysis
 
-30/05/2023- making slides and visuals & preparing for the presentation 
+
+29/05/2023- Testing: additional analysis of data and draw conclusions 
+
+30/05/2023- Creating documentation: making slides and visuals & preparing for the presentation 
 
 01/06/2023- Final Presentation 
 
