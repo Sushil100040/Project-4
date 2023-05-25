@@ -1,6 +1,6 @@
 # Project-4 
 
-predition of Diabetes, Hypertension and Stroke 
+Predition of Diabetes, Hypertension and Stroke 
 
 
 Project proposal 
