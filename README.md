@@ -25,7 +25,12 @@ Preapared and presented by Sushil Baskota and Dashrath Bhandari
 
 Data Souurce: Kaggle
 
-Tools: 
+Tools: Python Pandas
+       Python Matplotlib
+       SQL Database
+       Tableau
+       Scikit-learn
+       
 
 
 
