@@ -32,8 +32,6 @@ Data Souurce: Kaggle
 
 Tools: Python Pandas
        Python Matplotlib
-       SQL Database
-       Tableau
        Scikit-learn
        
 
